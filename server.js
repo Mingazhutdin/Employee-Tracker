@@ -5,8 +5,8 @@ import table from "console.table";
 const db = mysql.createConnection(
   {
     host: "localhost",
-    user: "root",
-    password: "Mingazhutdi!rich",
+    user: "",
+    password: "",
     database: "challenge_db",
   },
   console.log("Database connected!")
