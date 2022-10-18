@@ -130,6 +130,8 @@ This Challenge is graded based on the following criteria:
 
 * The walkthrough video must demonstrate a functional menu with the options outlined in the acceptance criteria.
 
+
+
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following:
